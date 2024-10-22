@@ -39,7 +39,7 @@ function App() {
     }
     fetchAPIData()
   }, [])
-  console.log('NASA API Key:', import.meta.env.VITE_NASA_API_KEY);
+  
 
 
   return (
